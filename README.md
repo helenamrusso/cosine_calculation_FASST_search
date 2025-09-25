@@ -1,6 +1,6 @@
 # FASST Results - Cosine Re-calculation
 
-This script is intended for calculating the cosine similarities between a Universal Spectrum Identifier (USI) and a spectrum from a local MGF file. This is recommended when FASST searches are done but the user wants to have a higher confidence in the cosine similarities. The FASST searches rely on pre-indexed, pre-filtered spectra, and calculating a 'raw cosine' value of a match that was obtained in FASST would increase the confidence of the match.
+This script is intended for calculating the cosine similarities between a Universal Spectrum Identifier (USI) and a spectrum from a local MGF file. This is recommended when FASST searches are done but the user wants to have a higher confidence in the cosine similarities. The FASST searches rely on pre-indexed, pre-filtered spectra, and calculating a 'raw cosine' (with pre-filtered, pre-indexed spectra) value of a match that was obtained in FASST would increase the confidence of the match.
 
 ## Overview
 
