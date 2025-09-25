@@ -19,12 +19,12 @@ warnings.filterwarnings("ignore")
 logging.getLogger("matchms").setLevel(logging.ERROR)
 
 # === Settings ===
-input_table_path = "/home/helena/carnitines/FASST_repeat/combined_tables/matches.tsv"
-query_mgf_path = "/home/helena/carnitines/FASST_repeat/Carnitine_library_2025_testing.mgf"
-output_table_path = "/home/helena/carnitines/FASST_repeat/combined_tables/matches_cosine_calculation_output.tsv"
-temp_json_dir = "/home/helena/carnitines/FASST_repeat/temp_json_storage/"
-checkpoint_file = "/home/helena/carnitines/FASST_repeat/checkpoint.txt"
-error_log_file = "/home/helena/carnitines/FASST_repeat/download_errors.log"
+input_table_path = "/path/to/your/matches.tsv"
+query_mgf_path = "/path/to/your/input_mgf.mgf"
+output_table_path = "/path/to/output/matches_cosine_output.tsv"
+temp_json_dir = "/path/to/temp/storage/"
+checkpoint_file = "/path/to/checkpoint.txt"
+error_log_file = "/path/to/download_errors.log"
 
 # Threading settings
 max_workers = 5  # Number of concurrent downloads
