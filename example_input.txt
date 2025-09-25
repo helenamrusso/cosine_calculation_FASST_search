@@ -1,0 +1,101 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status	Scan
+0	mzspec:MSV000087646:ccms_peak/JA_Feb152021_RMmetabolomics_ddMS2IE1pos_LC_POOL_OmnivoreStoolLyoph.mzML:scan:1674	0.78	5	NoID	11
+0	mzspec:MTBLS12424:FILES/DERIVED_FILES/pos/Control3_POS.mzXML:scan:2345	0.88	4	NoID	7
+0	mzspec:MTBLS12424:FILES/DERIVED_FILES/pos/NHar3_POS.mzXML:scan:2347	0.84	4	NoID	7
+0	mzspec:MSV000080905:ccms_peak/Raw/Plate1/P4_EMP_77.mzML:scan:2650	0.73	4	NoID	7
+0	mzspec:MTBLS3322:FILES/DERIVED_FILES/POS/pos_muscle_3d_6h_6.mzXML:scan:4719	0.81	4	NoID	12
+0	mzspec:MTBLS2081:FILES/CON3_pos-milk.mzXML:scan:3975	0.81	4	NoID	12
+0	mzspec:MTBLS2081:FILES/PPL2_pos-milk.mzXML:scan:3757	0.78	4	NoID	12
+0	mzspec:MSV000092716:peak/Peak List/M_RM_8257_POS_2.mzXML:scan:1416	0.76	4	NoID	12
+0	mzspec:MSV000093037:peak/mzML/229234_1.mzML:scan:96	0.84	4	NoID	6
+0	mzspec:MSV000087646:ccms_peak/JA_Feb152021_RMmetabolomics_ddMS2IE0pos_LC_POOL_PlasmaSRM1950.mzML:scan:1157	0.84	4	NoID	6
+0	mzspec:MTBLS11435:FILES/DERIVED_FILES/HILIC/VN_220223_HILIC_Col2_PRM_pos.mzML:scan:572	0.83	4	NoID	6
+0	mzspec:MSV000096476:peak/peak/BPSP_Plasma_MZML/P1_C9_X2101759.mzML:scan:128	0.82	4	NoID	6
+0.02	mzspec:MSV000093184:peak/mzML/PoolQC_20.mzML:scan:597	0.81	5	NoID	6
+0	mzspec:MTBLS11699:FILES/RS_250TB_POS_21072024_MS2_L02.mzML:scan:378	0.81	4	NoID	6
+0	mzspec:MSV000097110:peak/NESDA_mzml_all/P4_D1_364162126.mzML:scan:190	0.81	4	NoID	6
+0	mzspec:MSV000093526:peak/mzML/045_Sa07_Methanol_POS.mzML:scan:7433	0.8	5	NoID	6
+0	mzspec:MSV000097110:peak/NESDA_mzml_all/P7_A3_364343182.mzML:scan:198	0.8	4	NoID	6
+0	mzspec:MTBLS11699:FILES/RS_250TB_POS_21072024_MS2_L01.mzML:scan:192	0.8	4	NoID	6
+0	mzspec:MTBLS11699:FILES/RS_CTH_POS_21072024_MS2_L02.mzML:scan:444	0.8	4	NoID	6
+0	mzspec:MTBLS11699:FILES/RS_125TH_POS_21072024_MS2_L01.mzML:scan:361	0.8	4	NoID	6
+0	mzspec:MTBLS11699:FILES/RS_QCTB_POS_21072024_MS2_L05.mzML:scan:358	0.8	4	NoID	6
+0	mzspec:MSV000092716:peak/Peak List/M_RM_8258_POS_2.mzXML:scan:12827	0.8	4	NoID	6
+0	mzspec:MSV000084576:ccms_peak/Raw/LB85.mzML:scan:117	0.8	4	NoID	6
+0	mzspec:MTBLS11699:FILES/RS_CTB_POS_21072024_MS2_L05.mzML:scan:292	0.8	4	NoID	6
+0	mzspec:MSV000087646:ccms_peak/JA_Feb152021_RMmetabolomics_ddMS2IE0pos_LC_POOL_NonsmokersUrine.mzML:scan:1138	0.8	4	NoID	6
+0	mzspec:MSV000084576:ccms_peak/Raw/LB78.mzML:scan:112	0.8	4	NoID	6
+0	mzspec:MSV000092716:peak/Peak List/M_JRC_CM_POS_7.mzXML:scan:12138	0.79	4	NoID	6
+0	mzspec:MTBLS11699:FILES/RS_125TB_POS_21072024_MS2_L04.mzML:scan:318	0.79	4	NoID	6
+0	mzspec:MSV000088255:ccms_peak/Urine_NGS128_FragPos.mzML:scan:436	0.79	4	NoID	6
+0	mzspec:MSV000095143:peak/Samples/Plate3/Plate_3_A1_Sample_100050031.mzML:scan:116	0.79	4	NoID	6
+0	mzspec:MTBLS11435:FILES/DERIVED_FILES/HILIC/VN_220511_HILIC_Col_1MS2.mzML:scan:696	0.79	4	NoID	6
+0	mzspec:MSV000098055:peak/mzML/96990.mzML:scan:217	0.79	4	NoID	6
+0	mzspec:MSV000098055:peak/mzML/41458.mzML:scan:214	0.79	4	NoID	6
+0	mzspec:MTBLS11699:FILES/RS_CTB_POS_21072024_MS2_L06.mzML:scan:505	0.79	4	NoID	6
+0	mzspec:MSV000088255:ccms_peak/Urine_NGS092_FragPos.mzML:scan:4376	0.79	4	NoID	6
+0	mzspec:MSV000095143:peak/Samples/Plate10/Plate_10_D6_Sample_500020631.mzML:scan:103	0.79	4	NoID	6
+0	mzspec:MTBLS11656:FILES/DERIVED_FILES/pos/B-22.mzXML:scan:715	0.79	4	NoID	6
+0	mzspec:MSV000095217:raw/mzML/Hawaii_Plobata_Batch2_127_WH_S07_C08_PL.mzML:scan:1846	0.79	4	NoID	6
+0	mzspec:MSV000095143:peak/Samples/Plate8/Plate_8_B3_Sample_502010826.mzML:scan:116	0.79	4	NoID	6
+0	mzspec:MSV000090886:raw/rawdata/20220119_JGI_MD_507130_BioS_final1_QE-139_HILICZ_USHXG01825_POS_MSMS_78RM_BESC-904-Clat-RM_2_Rg70to1050-CE102040-root-S1_Run913.mzML:scan:2838	0.79	4	NoID	6
+0	mzspec:MSV000094781:ccms_peak/20210923_JGI-AK-TH_DS_503916_WRFungi_final_QE-139_HILICZ_USHXG01602/rawdata/20210923_JGI-AK-TH_DS_503916_WRFungi_final_QE-139_HILICZ_USHXG01602_POS_MSMS_12-S_TvSWO-super_4_Rg70to1050-CE205060-Tversi-S1_Run260.mzML:scan:3186	0.78	4	NoID	6
+0	mzspec:MSV000088255:ccms_peak/Urine_NGS093_FragPos.mzML:scan:4456	0.78	4	NoID	6
+0	mzspec:MSV000095143:peak/Samples/Plate7/Plate_7_E10_Sample_300075031.mzML:scan:102	0.78	4	NoID	6
+0	mzspec:MSV000085900:peak/pos_mzxml/positive_24_Dec_6_plasma_chronic_uninfected.mzXML:scan:194	0.78	4	NoID	6
+0	mzspec:MSV000092716:peak/Peak List/M_RM_8258_JRC_POS_2.mzXML:scan:12814	0.78	4	NoID	6
+0	mzspec:MSV000092716:peak/Peak List/M_RM_8259_JRC_POS_1.mzXML:scan:14087	0.78	4	NoID	6
+0	mzspec:MSV000094927:peak/mzML/csf_X2155862.mzML:scan:127	0.78	4	NoID	6
+0	mzspec:MSV000094927:peak/mzML/csf_X2143126.mzML:scan:159	0.78	4	NoID	6
+0	mzspec:MSV000095143:peak/Samples/Plate3/Plate_3_A6_Sample_400090931.mzML:scan:102	0.78	4	NoID	6
+0	mzspec:MSV000095143:peak/Samples/Plate10/Plate_10_A6_Sample_400013631.mzML:scan:111	0.78	4	NoID	6
+0	mzspec:MSV000098055:peak/mzML/30520.mzML:scan:188	0.78	4	NoID	6
+0	mzspec:MSV000096476:peak/peak/BPSP_Plasma_MZML/P7_B8_X3026676.mzML:scan:229	0.78	4	NoID	6
+0	mzspec:MSV000090886:raw/rawdata/20220119_JGI_MD_507130_BioS_final1_QE-139_HILICZ_USHXG01825_POS_MSMS_39LM_BESC-360-Clat-LM_2_Rg70to1050-CE102040-leaf-S1_Run131.mzML:scan:3144	0.78	4	NoID	6
+0	mzspec:MSV000085561:ccms_peak/002a.mzML:scan:802	0.78	4	NoID	6
+0	mzspec:MSV000095567:peak/BPSP_Plasma_MZML/P7_B8_X3026676.mzML:scan:229	0.78	4	NoID	6
+0	mzspec:MSV000097110:peak/NESDA_mzml_all/P3_G12_364345530.mzML:scan:193	0.78	4	NoID	6
+0	mzspec:MSV000094927:peak/mzML/csf_X2159725.mzML:scan:158	0.78	4	NoID	6
+0	mzspec:MSV000087646:ccms_peak/JA_Feb152021_RMmetabolomics_ddMS2IE0pos_LC_POOL_DiabeticPlasma.mzML:scan:1133	0.78	4	NoID	6
+0	mzspec:MSV000087646:ccms_peak/JA_Feb152021_RMmetabolomics_ddMS2IE0pos_LC_POOL_FemaleSerumSRM971.mzML:scan:1121	0.77	4	NoID	6
+0	mzspec:MSV000087646:ccms_peak/JA_Feb152021_RMmetabolomics_ddMS2IE0pos_LC_POOL_HypertriglyceridemicPlasma.mzML:scan:1115	0.77	4	NoID	6
+0	mzspec:MSV000094927:peak/mzML/csf_X2130567.mzML:scan:116	0.77	4	NoID	6
+0.02	mzspec:MSV000092716:peak/Peak List/M_RM_8257_JRC_POS_1.mzXML:scan:6684	0.77	4	NoID	6
+0	mzspec:MSV000085561:ccms_peak/QC01.mzML:scan:973	0.77	4	NoID	6
+0	mzspec:MSV000094927:peak/mzML/csf_X2131095.mzML:scan:116	0.77	4	NoID	6
+0	mzspec:MSV000085561:ccms_peak/QC02.mzML:scan:873	0.77	4	NoID	6
+0	mzspec:MSV000096359:ccms_peak/RAW/5_6_7/P7_B1_364433170.mzML:scan:278	0.77	4	NoID	6
+0	mzspec:MSV000098055:peak/mzML/83159.mzML:scan:245	0.77	4	NoID	6
+0	mzspec:MSV000095143:peak/Samples/Plate2/Plate_2_G6_Sample_302038726.mzML:scan:100	0.77	4	NoID	6
+0	mzspec:MSV000092716:peak/Peak List/M_JRC_CM_POS_8.mzXML:scan:12940	0.77	4	NoID	6
+0	mzspec:MSV000096476:peak/peak/BPSP_Plasma_MZML/P8_B8_X2106827.mzML:scan:172	0.77	4	NoID	6
+0	mzspec:MSV000095567:peak/BPSP_Plasma_MZML/P8_B8_X2106827.mzML:scan:172	0.77	4	NoID	6
+0	mzspec:MSV000095217:raw/mzML/Hawaii_Plobata_Batch2_120_WH_S07_C01_PL.mzML:scan:1894	0.77	4	NoID	6
+0	mzspec:MSV000092716:peak/Peak List/M_RM_8258_POS_4.mzXML:scan:14269	0.77	4	NoID	6
+0	mzspec:MSV000085256:ccms_peak/Normal/496_CSF.mzML:scan:110	0.77	4	NoID	6
+0	mzspec:MSV000092716:peak/Peak List/M_RM_8259_POS_1.mzXML:scan:13924	0.77	4	NoID	6
+0.02	mzspec:MSV000089112:peak/pos_mzxml/pos_male_5_Aug_16_chronic_uninfected_P190_H7_20220216182531.mzXML:scan:699	0.77	4	NoID	6
+0	mzspec:MSV000095143:peak/Samples/Plate6/Plate_6_C2_Sample_502032026.mzML:scan:105	0.77	4	NoID	6
+0	mzspec:MSV000095567:peak/BPSP_Plasma_MZML/P5_C6_X2104193.mzML:scan:126	0.77	4	NoID	6
+0	mzspec:MSV000095143:peak/Samples/Plate12/Plate_12_G6_Sample_500122631.mzML:scan:104	0.77	4	NoID	6
+0	mzspec:MSV000095143:peak/Samples/Plate12/Plate_12_C7_Sample_502013826.mzML:scan:105	0.77	4	NoID	6
+0	mzspec:MSV000095143:peak/Samples/Plate5/Plate_5_C4_Sample_400059331.mzML:scan:105	0.77	4	NoID	6
+0	mzspec:MSV000096476:peak/peak/BPSP_Plasma_MZML/P5_G1_X2109819.mzML:scan:180	0.77	4	NoID	6
+0.02	mzspec:MSV000092320:raw/Synthetic auxins/Raw Spectrum Files/Experiment 2_pos centroid mzML/44 5B HM 2 HAT C.mzML:scan:5559	0.76	5	NoID	6
+0	mzspec:MSV000095143:peak/Samples/Plate6/Plate_6_C7_Sample_300038331.mzML:scan:101	0.76	4	NoID	6
+0	mzspec:MSV000094927:peak/mzML/csf_poolQC_44.mzML:scan:120	0.76	4	NoID	6
+0	mzspec:MSV000088371:ccms_peak/Positive_untargeted_batch1/FEP2011_1.mzML:scan:520	0.76	4	NoID	6
+0	mzspec:MSV000088255:ccms_peak/Urine_NGS056_FragPos.mzML:scan:1833	0.76	4	NoID	6
+0	mzspec:MSV000096359:peak/Burnett_RisePlus_Allmzml/P4_E7_364302563.mzML:scan:910	0.76	4	NoID	6
+0	mzspec:MSV000088255:ccms_peak/Urine_NGS114_FragPos.mzML:scan:4330	0.76	4	NoID	6
+0	mzspec:MSV000095143:peak/Samples/Plate5/Plate_5_B4_Sample_400058631.mzML:scan:103	0.76	4	NoID	6
+0	mzspec:MSV000095143:peak/Samples/Plate12/Plate_12_C2_Sample_402119026.mzML:scan:104	0.76	4	NoID	6
+0	mzspec:MSV000081808:ccms_peak/Avena_isolates_exudates_uptake/20160119_pHILIC___POS_MSMS_KZ_HA36_C_Microbacterium_sp_URHA0036______Run143.mzML:scan:1880	0.76	4	NoID	6
+0	mzspec:MSV000085256:ccms_peak/MCI/362_Plasma_20191118043156.mzML:scan:200	0.76	4	NoID	6
+0.02	mzspec:MSV000089112:peak/pos_mzxml/pos_male_8_May_5_Acute_uninfected_P189_F11.mzXML:scan:813	0.76	4	NoID	6
+0	mzspec:MTBLS749:FILES/Control_POS_70kNorm_Rep2.mzML:scan:197	0.76	4	NoID	6
+0	mzspec:MSV000092716:peak/Peak List/M_Blank_POS_A_4.mzXML:scan:11290	0.76	4	NoID	6
+0	mzspec:MSV000088371:ccms_peak/Positive_untargeted_batch2/FEP1009_2.mzML:scan:532	0.76	4	NoID	6
+0	mzspec:MSV000095143:peak/Samples/Plate8/Plate_8_F4_Sample_400136131.mzML:scan:101	0.76	4	NoID	6
+0	mzspec:MSV000088436:peak/11112021-peaklist/phrma_urine_blank6.mzXML:scan:5352	0.75	4	NoID	6
+0	mzspec:MSV000087745:ccms_peak/ID026MSMS_RC6_01_18161_modified.mzML:scan:182	0.75	4	NoID	6
